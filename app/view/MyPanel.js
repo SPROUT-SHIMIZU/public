@@ -26,7 +26,7 @@ Ext.define('MyApp.view.MyPanel', {
                 items: [
                     {
                         xtype: 'numberfield',
-                        label: 'Field'
+                        label: '路線'
                     },
                     {
                         xtype: 'datepickerfield',
